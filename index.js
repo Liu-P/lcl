@@ -1,5 +1,5 @@
 const title = document.querySelector(".title");
 
 title.onclick = () => {
-    alert('hello git')
+    alert('hello git1')
 }
